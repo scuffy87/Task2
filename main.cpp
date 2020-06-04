@@ -67,9 +67,9 @@ private:
  int main() {
  matrix m1;
  m1.input();
- cout<<"\nunsorted matrix\n";
+ cout << "\nunsorted matrix\n";
  m1.output();
- cout<<"\nsorted matrix\n";
+ cout << "\nsorted matrix\n";
  m1.sort();
  m1.output();
  m1.count();
